@@ -1,0 +1,8 @@
+{
+  "name": "GuardianCare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ambliach/GuardianCare.git",
+  "author": "Joseph Millan <https://github.com/JMillan13>",
+  "license": "MIT"
+}
