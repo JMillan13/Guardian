@@ -1,6 +1,8 @@
 body {
-  background-color: #001540;
-  background-image: image()
+
+  background-image: url("cool-blue-backround.png"), url("GardianComplete.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #0000A0;
 }
 
 h1 {
