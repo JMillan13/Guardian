@@ -1,8 +1,39 @@
-# Guardian
-The Guardian Project
-
-Our application revolves around the aging population, their loved ones and the nurses who care for them at their homes or in nursing facilities. 
+https://guardiancare.herokuapp.com/login
 
 
 
-The children or grandchildren of Seniors usually don't call or visit everyday, or even weekly. This is especially true for the very elderly, those with dementia or alzheimer's (as the population ages this number grows). This application will allow a family member (with the compliance of the patient or P.O.A.) to create a profile for their elderly (or very sick) family member. The family member will then be able to assign the nurse or nursing staff of their loved ones access to this profile via unique secure codes. Once linked, the nurse or nursing staff will be able to update vital signs, eating habits, bowel movement,any notes or activities and pictures of your loved ones. This will be updated real time for the family member to view whenever, wherever.
+
+
+https://guardiancare.herokuapp.com/
+
+This website/future app is set up to make communication easier for the parent/guardian of an elderly or disable person/persons under the care of a nurse, caregiver, or in a nursing home. It can be used by a caregiver coming to the patients home, in the hospital, in a nursing home, ect. It is intended to help communicate easier with a loved one whom is resposible for the patient. Communication between a nurse and parent/guardian will be easier because of all the information given will be direct through the website or app.
+It will cover all vitals, pictures, activites, and any personal text of communication between the both patient's caregiver and active parent/guardian.
+
+
+Leverages passport library to implement authentication. Basic signup/login/logout functionality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/46582302/65398646-6ddbfa80-dd86-11e9-9786-d6c2648cd0b7.png)
